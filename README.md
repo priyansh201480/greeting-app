@@ -2,6 +2,12 @@
 
 A simple web application that allows users to enter their name and receive a personalized greeting message.
 
+## Features 
+- User-friendly interface
+- Takes user input and generates a greeting
+- Styled with CSS for a clean UI
+- Built with React (Frontend) and Express.js (Backend)
+
 ## Tech Stack
 - Frontend: React
 - Backend: Node.js, Express.js
@@ -23,4 +29,4 @@ A simple web application that allows users to enter their name and receive a per
 - Step 3: Run the App
   - Open http://localhost:5173 in your browser (Frontend)
   - Server runs on http://localhost:5000 (Backend)
-## 
+
